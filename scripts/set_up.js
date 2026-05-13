@@ -24,6 +24,7 @@ const aboutButton = document.getElementById("about_button"), // misc/home screen
     discordButton = document.getElementById("discord_button"),
     githubButton = document.getElementById("github_button"),
     youtubeButton = document.getElementById("youtube_button"),
+    youtubeButton2 = document.getElementById("youtube_button2"),
     loadingText = document.getElementById("loading_text"),
     loadingDetails = document.getElementById("loading_details"),
     loadingTip = document.getElementById("loading_tip"),
