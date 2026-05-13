@@ -294,6 +294,7 @@ createTippy(menuMusicToggleButton, menuMusicToggleButton.dataset.title, "#dadbdd
 createTippy(discordButton, discordButton.dataset.title, "#5865f2");
 createTippy(githubButton, githubButton.dataset.title, "#f0f6fc");
 createTippy(youtubeButton, youtubeButton.dataset.title, "#ff0033");
+createTippy(youtubeButton2, youtubeButton2.dataset.title, "#ff0033");
 
 discordButton.style.setProperty("--border-color", "#5865f2");
 discordButton.style.setProperty("--glow-color", "#5865f299");
@@ -304,6 +305,9 @@ githubButton.style.setProperty("--left-distance", "7.1vw");
 youtubeButton.style.setProperty("--border-color", "#ff0033");
 youtubeButton.style.setProperty("--glow-color", "#ff003399");
 youtubeButton.style.setProperty("--left-distance", "13.1vw");
+youtubeButton2.style.setProperty("--border-color", "#ff0033");
+youtubeButton2.style.setProperty("--glow-color", "#ff003399");
+youtubeButton2.style.setProperty("--left-distance", "19.1vw");
 
 // menu music handling
 let menuMusic = new Howl({
