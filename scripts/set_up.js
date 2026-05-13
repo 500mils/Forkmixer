@@ -284,7 +284,7 @@ beginButton.onclick = () => {
 
 defineButtonLink(feedbackButton, "https://forms.gle/R7q3uP9jSBQfEmuF8");
 defineButtonLink(discordButton, "https://discord.gg/BCU2UbMRBc");
-defineButtonLink(githubButton, "https://github.com/Rotwall72/Threatmixer");
+defineButtonLink(githubButton, "https://github.com/500mils/Forkmixer");
 defineButtonLink(youtubeButton, "https://www.youtube.com/@Rotwall");
 
 // button tips
