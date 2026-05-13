@@ -286,6 +286,7 @@ defineButtonLink(feedbackButton, "https://forms.gle/R7q3uP9jSBQfEmuF8");
 defineButtonLink(discordButton, "https://discord.gg/BCU2UbMRBc");
 defineButtonLink(githubButton, "https://github.com/500mils/Forkmixer");
 defineButtonLink(youtubeButton, "https://www.youtube.com/@Rotwall");
+defineButtonLink(youtubeButton2, "https://www.youtube.com/@mils500");
 
 // button tips
 createTippy(menuMusicToggleButton, menuMusicToggleButton.dataset.title, "#dadbdd");
