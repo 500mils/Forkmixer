@@ -8,12 +8,12 @@
         "regionCredits": "500mils",
         "artCredits": "N/A",
         "layers": [
-            ["synth_icon.png", "music/threat_music/base/LNT/TH_LNT - ARP.ogg", 0],
-            ["arps_icon.png", "music/threat_music/base/LNT/TH_LNT - ARP2.ogg", 0],
-            ["bass_icon.png", "music/threat_music/base/LNT/TH_LNT - BASS.ogg", 0],
+            ["kick_icon.png", "music/threat_music/base/LNT/TH_LNT - KICK.ogg", 0],
             ["shaker_icon.png", "music/threat_music/base/LNT/TH_LNT - SHAKER.ogg", 0],
+            ["arps_icon.png", "music/threat_music/base/LNT/TH_LNT - ARP2.ogg", 0],
             ["perc_icon.png", "music/threat_music/base/LNT/TH_LNT - PERC.ogg", 0],
-            ["kick_icon.png", "music/threat_music/base/LNT/TH_LNT - KICK.ogg", 0]
+            ["synth_icon.png", "music/threat_music/base/LNT/TH_LNT - ARP.ogg", 0],
+            ["bass_icon.png", "music/threat_music/base/LNT/TH_LNT - BASS.ogg", 0]
         ],
         "colors": ["#009700"],
         "filters": ["brightness(0) saturate(100%) invert(11%) sepia(69%) saturate(4513%) hue-rotate(100deg) brightness(195%) contrast(114%)"],
