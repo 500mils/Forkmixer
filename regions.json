@@ -246,24 +246,23 @@
         "groups": ["shuffle", "sesh3", "new"],
         "favorited": false,
         "pathingToAudioRepo": false,
-        "songCredits": "500mils, Layer Shuffle Session 4 Participants",
+        "songCredits": "500mils, Layer Shuffle Session 4 Participants, Snoop Dogg",
         "regionCredits": "N/A",
         "artCredits": "N/A",
         "layers": [
             ["kick_icon.png", "music/threat_music/shuffle/AA4INV/TH_AA4INV - KICK.ogg", 0],
             ["scav_noise_icon.png", "music/threat_music/shuffle/AA4INV/TH_AA4INV - SCAVFX.ogg", 0],
             ["synth_icon.png", "music/threat_music/shuffle/AA4INV/TH_AA4INV - BASS.ogg", 0],
+            ["weird_icon.png", "music/threat_music/shuffle/AA4INV/TH_AA4INV - WEIRD.ogg", 0],
+            ["snare_icon.png", "music/threat_music/shuffle/AA4INV/TH_AA4INV - BREAK.ogg", 0],
             ["hit_icon.png", "music/threat_music/shuffle/AA4INV/TH_AA4INV - HIT.ogg", 0],
             ["arps_icon.png", "music/threat_music/shuffle/AA4INV/TH_AA4INV - ARPS.ogg", 0],
-            ["machine_icon.png", "music/threat_music/shuffle/AA4INV/TH_AA4INV - WEIRD.ogg", 0],
-            ["snare_icon.png", "music/threat_music/shuffle/AA4INV/TH_AA4INV - BREAK.ogg", 0],
             ["snoop_dogg.png", "music/threat_music/shuffle/AA4INV/TH_AA4INV - SNOOPDOGG.ogg", 1]
         ],
-        "colors": ["#E24700", "#FFFFFF"],
-        "filters": ["brightness(0) saturate(100%) invert(32%) sepia(39%) saturate(6134%) hue-rotate(12deg) brightness(96%) contrast(104%)",
-        "brightness(1)"],
+        "colors": ["#f6762c"],
+        "filters": ["brightness(0) saturate(100%) invert(63%) sepia(31%) saturate(4475%) hue-rotate(338deg) brightness(95%) contrast(102%)"],
         "containerWidth": "100%",
         "background": "assets/images/backgrounds/apostate_apparatus.png",
-        "preview": "music/music_snippets/BS3_snippet.mp3"
+        "preview": "music/music_snippets/AA4INV_snippet.mp3"
     }
 ]
