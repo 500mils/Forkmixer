@@ -259,8 +259,8 @@
             ["arps_icon.png", "music/threat_music/shuffle/AA4INV/TH_AA4INV - ARPS.ogg", 0],
             ["snoop_dogg.png", "music/threat_music/shuffle/AA4INV/TH_AA4INV - SNOOPDOGG.ogg", 1]
         ],
-        "colors": ["#f6762c"],
-        "filters": ["brightness(0) saturate(100%) invert(63%) sepia(31%) saturate(4475%) hue-rotate(338deg) brightness(95%) contrast(102%)"],
+        "colors": ["#f6762c", "#ffffff"],
+        "filters": ["brightness(0) saturate(100%) invert(63%) sepia(31%) saturate(4475%) hue-rotate(338deg) brightness(95%) contrast(102%)", "brightness(1)"],
         "containerWidth": "100%",
         "background": "assets/images/backgrounds/apostate_apparatus.png",
         "preview": "music/music_snippets/AA4INV_snippet.mp3"
