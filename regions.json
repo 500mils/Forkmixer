@@ -264,7 +264,7 @@
         "containerWidth": "100%",
         "background": "assets/images/backgrounds/apostate_apparatus.png",
         "preview": "music/music_snippets/AA4INV_snippet.mp3"
-    }
+    },
     {
         "name": "Hotland",
         "groups": ["base", "new"],
