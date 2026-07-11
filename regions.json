@@ -282,7 +282,7 @@
             ["kick_icon.png", "music/threat_music/base/HOTV/TH_HOT - HORN.ogg", 0],
             ["kick_icon.png", "music/threat_music/base/HOTV/TH_HOT - SYNTH.ogg", 0],
             ["kick_icon.png", "music/threat_music/base/HOTV/TH_HOT - LEAD.ogg", 0],
-            ["kick_icon.png", "music/threat_music/base/HOTV/TH_HOT - LEAD2.ogg", 0],
+            ["kick_icon.png", "music/threat_music/base/HOTV/TH_HOT - LEAD2.ogg", 0]
         ],
         "colors": ["#C14511"],
         "filters": ["brightness(0) saturate(100%) invert(28%) sepia(63%) saturate(1985%) hue-rotate(357deg) brightness(96%) contrast(91%)"],
